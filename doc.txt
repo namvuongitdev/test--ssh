@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 vuong duc nam
-=======
-nam
->>>>>>> 88b78bcb8abae9718194fc79adeea96800554e4a
